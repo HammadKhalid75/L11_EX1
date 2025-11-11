@@ -34,3 +34,6 @@ Perfect for learning **Jetpack Compose**, **Navigation**, and **Android best pra
 ## Screenshots
 
 
+![Add Item](Screenshot_1.png)
+![Add Item](Screenshot_2.png)
+![Add Item](Screenshot_3.png)
